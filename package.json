@@ -3,12 +3,12 @@
   "version": "0.0.1",
   "repository": "https://github.com/feb19/snowscape",
   "description": "snowscape for terminal",
-  "main": "lib/snowscape.js",
+  "main": "bin/snowscape.js",
   "keywords": ["cli", "terminal", "canvas"],
   "scripts": {
     "start": "node bin/snowscape"
   },
-  "author": "Nobuhiro Takahashi <info@feb19.jp>",
+  "author": "Nobuhiro Takahashi",
   "license": "MIT",
   "bin": {
     "snowscape": "bin/snowscape"
