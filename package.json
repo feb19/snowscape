@@ -1,13 +1,14 @@
 {
   "name": "snowscape",
-  "version": "0.0.0",
-  "description": "snowscape",
+  "version": "0.0.1",
+  "repository": "https://github.com/feb19/snowscape",
+  "description": "snowscape for terminal",
   "main": "lib/snowscape.js",
+  "keywords": ["cli", "terminal", "canvas"],
   "scripts": {
-    "start": "node bin/snowscape",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bin/snowscape"
   },
-  "author": "deb19",
+  "author": "Nobuhiro Takahashi <info@feb19.jp>",
   "license": "MIT",
   "bin": {
     "snowscape": "bin/snowscape"
