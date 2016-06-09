@@ -1,9 +1,9 @@
 {
   "name": "snowscape",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "https://github.com/feb19/snowscape",
   "description": "snowscape for terminal",
-  "main": "bin/snowscape.js",
+  "main": "",
   "keywords": ["cli", "terminal", "canvas"],
   "scripts": {
     "start": "node bin/snowscape"
