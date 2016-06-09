@@ -1,5 +1,13 @@
 #snowscape
 
-```$ npm install -g snowscape```
+install
 
-```$ snowscape```
+```
+$ npm i -g snowscape
+```
+
+execute
+
+```
+$ snowscape
+```
